@@ -1,0 +1,6 @@
+name = "Registry"
+uuid = "d9cb22d3-bf45-44f0-9a64-9e7fb01e3b14"
+repo = "https://github.com/guoshilin1314/MyRegistry.git"
+description = "my test"
+
+[packages]
